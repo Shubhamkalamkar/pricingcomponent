@@ -23,7 +23,7 @@ function App() {
       <div className="item3">
         <h4>Why Us</h4>
         <ul style={{ listStyleType: "none" }} className="ulItem" >
-          <li>Tutanals by industry experts</li>
+          <li>tutorials by industry experts</li>
           <li>peer & expert code review</li>
           <li>Coding exercises</li>
           <li>Access to our GitHub repos</li>
